@@ -28,7 +28,7 @@ This is a simple survey form created using HTML and CSS. The form consists of ba
 
 ![Survey Form Preview](survey-form-preview.png)
 
-## Live Demo
+## Survey File Link
 
 You can view the live demo of the survey form [here](https://github.com/souvikkundu88).
 
